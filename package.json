@@ -1,0 +1,11 @@
+{
+  "name": "arraylist-js",
+  "version": "1.1.0",
+  "description": "A javascript implementation of the arraylist",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Wisdom Ogwu",
+  "license": "ISC"
+}
